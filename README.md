@@ -7,7 +7,7 @@
 Projeto com o intuito de verificar consolidar a aprendizagem em JavaScript. Seguindo os passos no curso de Lógica de Programação na Alura.
 
 # Link do porojeto
-
+![Jogo](https://rafaelunderscorerdrigs.github.io/Js-Game-numero-secreto/)
 # Status
 
 Pronto para uso.
